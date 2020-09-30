@@ -2,7 +2,7 @@
 
 <center>
 <img src="./media/wm.jpg" alt="Drawing"/>
-<img src="./media/chart.jpg" alt="Drawing"/>
+<img src="./media/img02.jpg" alt="Drawing"/>
 </center>
 
 #### Title: Wireless Short-Range Communication Device (Walkie Messenger)
