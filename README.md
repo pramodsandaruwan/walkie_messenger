@@ -1,8 +1,8 @@
 # walkie_messenger
 
-<center>
+<right>
 <img src="./media/wm.jpg" alt="Drawing"/>
-</center>
+</right>
 
 #### Title: Wireless Short-Range Communication Device (Walkie Messenger)
 #### Introduction
