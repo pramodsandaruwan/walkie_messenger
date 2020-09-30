@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Radio Messenger\Project Outputs for Radio Messenger\Pick Place\Pick Place for Radio PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/02/20
+Time:       12:11
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C1","tantalum capacitor 1206","TopLayer","CAPPM3216X180N","830.000","1550.000","90","Capacitor Polarised"
+"C2","capacitor 0603","TopLayer","*CAPC1608X95N","1085.000","1587.362","90","Capacitor"
+"C3","08055A101JAT2A","TopLayer","CAPC2012X94N","1295.000","855.000","180","Capacitor"
+"C4","08055A101JAT2A","TopLayer","CAPC2012X94N","1148.000","855.000","360","Capacitor"
+"C5","capacitor 0603","TopLayer","*CAPC1608X95N","560.000","400.000","90","Capacitor"
+"C6","capacitor 0603","TopLayer","*CAPC1608X95N","754.000","400.000","90","Capacitor"
+"C7","08055A101JAT2A","TopLayer","CAPC2012X94N","1140.000","1195.768","360","Capacitor"
+"C8","tantalum capacitor 1206","TopLayer","CAPPM3216X180N","950.000","1550.354","90","Capacitor Polarised"
+"C9","capacitor 0603","TopLayer","*CAPC1608X95N","1327.874","1587.362","90","Capacitor"
+"C19","08055A101JAT2A","TopLayer","CAPC2012X94N","1295.000","535.000","180","Capacitor"
+"D1","USBLC6-2SC6","TopLayer","*SOT95P280X145-6N","664.000","400.260","90","USBLC6 Series 2 Line 6 V Uni / Bi-Directional ESD Protection - SOT-23-6"
+"FB1","inductor 0603","TopLayer","BEADC1608X95N","1025.000","1550.354","90","Ferrite Bead"
+"IC1","TPS62203","TopLayer","SOT95P280X145-5N","910.000","1340.000","360","Integrated Circuit"
+"IC2","TP4056","TopLayer","SOIC127P600X175-9N","1210.177","695.000","180","Integrated Circuit"
+"IC3","DW01-P","TopLayer","SOT95P280X135-6N","1140.000","1005.000","180","Integrated Circuit"
+"IC4","SI4143DY-T1-GE3","TopLayer","SI4143DY-T1-GE3","1210.000","375.000","360","Integrated Circuit"
+"J1","DX07S024XJ1R1100","TopLayer","*JAE_DX07S024XJ1R1100_DX07S024XJ1R1100(Primary)","663.504","169.528","0","Cut Tape - Usb Type c Receptacle Mid Mnt Dual r"
+"J2","S2B-ZR-SM4A-TF(LF)(SN)","BottomLayer","*JST_S2B-ZR-SM4A-TF(LF)(SN)_S2B-ZR-SM4A-TF(LF)(SN)(Primary)","315.000","226.220","360","Connector Header Surface Mount, Right Angle 2 position 0.059 _1.50mm_"
+"LED1","HSMR-C191","TopLayer","*0603","1000.472","620.000","360","LED Indication - Discrete 3.4V 0603 _1608 Metric_"
+"LED2","HSMR-C191","TopLayer","*0603","1000.472","770.000","360","LED Indication - Discrete 3.4V 0603 _1608 Metric_"
+"LED3","HSMR-C191","TopLayer","*0603","1245.538","1587.362","270","LED Indication - Discrete 3.4V 0603 _1608 Metric_"
+"LED4","HSMR-C191","TopLayer","*0603","40.000","715.000","90","LED Indication - Discrete 3.4V 0603 _1608 Metric_"
+"LED5","HSMR-C191","TopLayer","*0603","39.717","595.000","270","LED Indication - Discrete 3.4V 0603 _1608 Metric_"
+"Q1","FS8205A","TopLayer","SOP65P640X120-8N","1295.000","1080.000","270","Transistor"
+"R1","resistor","TopLayer","RESC1608X55N","1000.472","670.000","180","Resistor"
+"R2","resistor","TopLayer","RESC1608X55N","830.000","1074.252","180","Resistor"
+"R3","resistor","TopLayer","RESC1608X55N","1000.472","720.000","180","Resistor"
+"R4","CPF0805","TopLayer","RESC2012X65N","991.614","855.000","180","Resistor"
+"R5","CPF0805","TopLayer","RESC2012X65N","1140.000","1115.000","180","Resistor"
+"R6","resistor","TopLayer","RESC1608X55N","830.000","1190.000","360","Resistor"
+"R7","resistor","TopLayer","RESC1608X55N","1165.564","1587.362","270","Resistor"
+"R8","CPF0805","TopLayer","RESC2012X65N","1149.882","535.000","180","Resistor"
+"R9","resistor","TopLayer","RESC1608X55N","842.000","345.669","180","Resistor"
+"R10","resistor","TopLayer","RESC1608X55N","95.492","715.000","270","Resistor"
+"R11","resistor","TopLayer","RESC1608X55N","150.000","715.000","270","Resistor"
+"R12","resistor","TopLayer","RESC1608X55N","830.000","1016.378","180","Resistor"
+"R13","resistor","TopLayer","RESC1608X55N","830.000","958.504","180","Resistor"
+"R14","resistor","TopLayer","RESC1608X55N","830.000","1132.126","180","Resistor"
+"R15","resistor","TopLayer","RESC1608X55N","842.000","410.000","180","Resistor"
+"R16","resistor","TopLayer","RESC1608X55N","842.000","475.000","360","Resistor"
+"S1","PTS810SJK250SMTRLFS","TopLayer","*PTS810SJG250SMTRLFS","970.000","430.000","90","Tactile Switch SPST-NO Top Actuated Surface Mount"
+"SW1","1437575-1","TopLayer","*SW_MLL1200S_MLL1200S(Primary)","215.000","92.716","360","Slide Switch SPDT Surface Mount, Right Angle"
+"T1","PMGD780SN","TopLayer","*SOP65P210X110-6N","965.000","973.268","0","Mosfet Array 2 N-Channel _Dual_ 20V 1.2A 390mW Surface Mount 6-TSSOP"
+"T2","PMGD780SN","TopLayer","*SOP65P210X110-6N","965.000","1078.495","0","Mosfet Array 2 N-Channel _Dual_ 20V 1.2A 390mW Surface Mount 6-TSSOP"
+"U1","ATMEGA328P-AN","TopLayer","*QFP80P900X900X120-32N","305.000","435.000","0","AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB _16K x 16_ FLASH 32-TQFP _7x7_"
+"U2","JDY-23","TopLayer","*JDY-23","385.000","1077.520","360","Bluetooth Bluetooth v4.0 Transceiver Module 2.4GHz Integrated, Chip Surface Mount"
+"U3","NRF24L01P+","BottomLayer","NRF24L01P+","1070.000","840.827","270",""
+"U4","AMS1117","TopLayer","*SOT229P700X180-4N","1185.000","1375.000","360","1A LOW DROPOUT VOLTAGE REGULATOR"
+"U5","LMS33460MG","TopLayer","*SOT65P210X110-5N","965.000","1175.000","360","3V Under Voltage Detector 5-SC70 -40 to 85"
+"U6","CP2102N-A01-GQFN28","TopLayer","*QFN50P500X500X80-29N","653.661","620.000","90","USB Bridge, USB to UART USB 2.0 UART Interface 28-QFN _5x5_"
+"Y1","PBRC8.00MR10X000","TopLayer","*XTAL_PBRC8.00MR10X000","92.244","240.000","360","8MHz Ceramic Resonator Built in Capacitor 15pF ±0.1% -40°C ~ 85°C Surface Mount"

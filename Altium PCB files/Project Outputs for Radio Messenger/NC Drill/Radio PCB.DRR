@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Radio PCB.PcbDoc   2/17/2020  12:11:00 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Radio PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             182       PTH        0.00inch (0.00mm)
+T2      16mil (0.4mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T3      30mil (0.762mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             2         PTH        0.00inch (0.00mm)
+T5      24mil (0.6mm)                                             Round             4         NPTH       0.00inch (0.00mm)
+T6      30mil (0.75mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              210
+
+Total Processing Time (hh:mm:ss) : 00:00:00

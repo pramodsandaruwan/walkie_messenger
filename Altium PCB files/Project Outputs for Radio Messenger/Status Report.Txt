@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Radio PCB.PcbDoc]
+   Generated File[Pick Place for Radio PCB.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:11:02 PM On 2/17/2020
