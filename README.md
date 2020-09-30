@@ -1,8 +1,6 @@
 # Walkie Messenger
 
-<center>
-<img src="./media/wm.jpg" width="300"/> <img src="./media/img01.jpg" width="300"/>
-</center>
+<img src="./media/wm.jpg" width="300"/> <img align="right" img src="./media/img01.jpg" width="300"/>
 
 <center>
 <img src="./media/img02.jpg" alt="Drawing"/>
