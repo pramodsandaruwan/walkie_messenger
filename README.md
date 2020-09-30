@@ -4,6 +4,10 @@
 <img src="./media/img02.jpg" alt="Drawing"/>
 </center>
 
+<p align="right">
+  <img width="460" height="300" src="./media/wm.jpg">
+</p>
+
 #### Title: Wireless Short-Range Communication Device (Walkie Messenger)
 #### Introduction
 A regular problem that can occur in hiking groups is that the group can easily spread out as the hike progresses. Some of your party will get chatting, some will stop to take photos, some are faster over rocky terrain or rock scrambles, some are simply fitter than others and can maintain a faster pace. Inevitably, a gap between the lead and whip of your group opens up and the main role of the group leader is to make sure that the gap doesn’t get so wide as to become unmanageable to the point where one part of the group can’t locate the other. Walkie Messenger is a solution for above problem. It provides messaging, locating, tracking so you can stay connected to your group, whenever you're outside of cellular range. In case of a lifethreatening emergency device can contact search & rescue services. (SOS function). 
