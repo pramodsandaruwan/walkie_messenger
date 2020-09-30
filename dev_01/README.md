@@ -1,1 +1,1 @@
-#### Device 01 code
+#### Walkie Messenger device 01 ( MINI version )
