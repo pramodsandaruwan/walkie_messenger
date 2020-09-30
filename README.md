@@ -44,6 +44,7 @@ This device comes with mobile phone app (Android and IOS), so you can easily mes
   
 #### Methodology
 Walkie messenger used NRF24L01+ Single chip 2.4GHz Transceiver communicate between walkie devices (Maximum distance up to 1100m) and Bluetooth 5.0 used to connect to smart mobile phone (Maximum distance up to 100m). Some modern mobile phone has Bluetooth 4.0 or 4.2, So walkie can connect to these devices with maximum range 60m.
+
 The amplifier IC and 20dB Antenna is used to increase the wireless communication Range. Bluetooth module has in-built PCB antenna. Atmega 328p 8bit microcontroller is used as controller.Microcontroller used UART (Universal Asynchronous Receiver/Transmitter) communication protocol to communicate with Bluetooth module and SPI (Serial peripheral interface) used to communicate between NRF24L01+ chip. 
 
 The test message type and send to device using mobile phone application over Bluetooth. The GPS coordinates and mobile phone battery stats send to device automatically. NRF24L01+ chip has three power modes, so it can be configured using mobile app.
