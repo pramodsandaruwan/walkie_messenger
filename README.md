@@ -51,5 +51,5 @@ The test message type and send to device using mobile phone application over Blu
 The CP2102n USB to Serial converter IC is used to connect device to USB interface. Firmware upgrading can do over USB (PC or MAC) and Bluetooth. Li-ion 300mAh is used to power the device, it works between the voltage level of 3.7v-4.2v and a BMS (Battery management system) is used to maintain battery health. A DC-DC converter is used to bring the voltage to 3.3V to power the Atmega 328p microcontroller and Communicating modules.
 
 <center>
-<img src="./media/cover.png" alt="Drawing"/>
+<img src="./media/chart.png" alt="Drawing"/>
 </center>
