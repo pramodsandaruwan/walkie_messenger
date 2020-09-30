@@ -1,12 +1,14 @@
 # Walkie Messenger
 
+<p align="right">
+  <img width="250" height="250" src="./media/wm.jpg">
+</p>
+
 <center>
 <img src="./media/img02.jpg" alt="Drawing"/>
 </center>
 
-<p align="right">
-  <img width="460" height="300" src="./media/wm.jpg">
-</p>
+<img src="./media/wm.jpg" width="425"/> <img src="./media/img02.jpg" width="425"/>
 
 #### Title: Wireless Short-Range Communication Device (Walkie Messenger)
 #### Introduction
