@@ -1,7 +1,6 @@
-# walkie_messenger
+# Walkie Messenger
 
 <center>
-<img src="./media/wm.jpg" alt="Drawing"/>
 <img src="./media/img02.jpg" alt="Drawing"/>
 </center>
 
