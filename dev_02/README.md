@@ -1,4 +1,4 @@
-#### Device 02 device 
+#### Walkie Messenger device 02 
 
 ##### Additional Specifications compared with WM mini 
 - LCD display
